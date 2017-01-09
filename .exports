@@ -1,0 +1,11 @@
+# setting Groovy environment variable
+export GROOVY_HOME=/Users/clare/Groovy/groovy-2.0.4
+
+# add Groovy bin folder to system PATH
+export PATH=$PATH:/Users/clare/Groovy/groovy-2.0.4/bin
+
+# add JAVA_HOME environment variable
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home
+
+# ensure coloured text
+export CLICOLOR=1

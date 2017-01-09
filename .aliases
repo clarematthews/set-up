@@ -1,0 +1,3 @@
+# show details and hidden files for ls
+alias ls="ls -GlAhF"
+
